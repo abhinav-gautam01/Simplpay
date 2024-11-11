@@ -5,7 +5,7 @@ SimplPay is a comprehensive money transfer application that provides users with 
 ## Features
 
 ### User Authentication and Account Management
-- **Sign Up and Sign In**: Users can create new accounts and securely log in using authentication mechanisms.
+- **Sign Up and Sign In**: Users can create new accounts and securely log in using JWT authentication mechanisms.
 - **Profile Management**: Users can update their personal information including name, email, and contact details.
 
 ### Money Transfer and Transactions
